@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="text-align: center;">
+        Bhargav Mishra
+    </h1>
+    <nav style="text-align: center;">Home|Projects|Blogs|Designer</nav>
+    <h2 style="text-align: center;">
+        Web Developer and designer
+    </h2>
+    <table border="1" width="100%">
+        <tr>
+            <td><h3>portfolio highlights</h3>
+                <ul>
+                    <li>responsive HTML layout</li>
+                    <li>E-commerce storefront</li>
+                    <li>Interactive form design</li>
+                    <li>Event countdown widget</li>
+                    <li>Prototype landing pages</li>
+                </ul>
+            </td>
+            <td><h3>Career achievements</h3>
+                <p>Frotened developer[intern] at infosys <br>
+                    Headed major product redesigns resulting in 40% increase in user engagement <br>
+                    <a href="#">View my Linkedin profile</a>
+                </p>
+                <h3>Community Involvement</h3>
+                <p>Active participant in local and online developer forums. I regularly contribute to web developement blogs and my githup project <br>
+                <a href="*">Visit my github</a></p>
+            </td>
+            <td>
+                <h3>Academic qualifications</h3>
+                <p>B tech (computerscience) from RGPV university</p>
+                SPECIALIZATIONS: 
+                <ul>
+                    <li>System Analysis</li>
+                    <li>Advanced Javascript Techniques</li>
+                    <li>Web Accessibility standards</li>
+                    <li>Performance optimizations in web applications</li>
+                    <li>Cloud Computing Infrastructure</li>
+                    <li>Security in web applications</li>
+                    <li>Advanced Algorithms</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+    <h3>Peer Reviews</h3>
+    <table border="1" width="100%">
+        <tr>
+            <td>
+                <p>Bhargav Mishra consistently delivers high quality,innovative solns that exceeds projects expectations. stevewn,projectlead</p>
+            </td>
+            <td>
+                <p>Bhargav Mishra is known for his precise attention</p>
+            </td>
+            <td>
+                <p>His approach of problem solving is insane</p>
+            </td>
+        </tr>
+    </table>
+    <footer style="text-align: center;">
+        c [2025]All rights reserved by john doe
+    </footer>
+</body>
+</html>
